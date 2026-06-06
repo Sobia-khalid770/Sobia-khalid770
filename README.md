@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code.%20Learn.%20Grow.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Sobia%20Khalid%20%F0%9F%92%AB&descAlignY=55&descSize=20" width="100%"/>
 </div>
@@ -6,37 +5,51 @@
 <div align="center">
 
 ### 👋 Hey! I'm Sobia Khalid
-#### 🎓 BS Artificial Intelligence Student @ NUML Islamabad
+#### BS Artificial Intelligence Student 🤖
 
 </div>
 
 ---
 
-###### `Java` `C++` `AI` `Learning` `Database` `Problem Solving`
+<div align="center">
+
+`Java` `C++` `AI` `Learning` `Problem Solving` `Open Source`
+
+</div>
 
 ---
 
 ### 🚀 Currently Learning
-Exploring **Java** and **C++** to build strong programming fundamentals. Starting **Databases** next month — LeetCode SQL grind incoming! 📊
+Exploring **Java** and **C++** to build strong programming fundamentals and diving deep into **Artificial Intelligence**.
 
 ---
 
 ### 💻 Projects
-🔗 Just getting started — watch this space!
+
+🔐 **[Password Generator & Saver](https://github.com/Sobia-khalid770/password-generator)**
+> A Java-based tool to generate strong passwords and save them securely.
+
+🧸 **[SafeHaven](https://github.com/Sobia-khalid770/SafeHaven)**
+> A Java-built app designed especially for kids with autism — a safe and friendly digital space. 💙
 
 ---
 
 ### 💬 Ask me about
-Java, C++, AI concepts, university life at NUML
+Java, C++, AI concepts & building apps that matter
 
 ---
 
-### 📬 Get in Touch
+### 🔗 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sobia_Khalid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobia-khalid-a276303a5)
-[![Twitter](https://img.shields.io/badge/Twitter-@_SobiaKhalid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SobiaKhalid)
-[![Instagram](https://img.shields.io/badge/Instagram-@SobiaKhalid._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SobiaKhalid._)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sobia__khalid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sobia_khalid)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobia-khalid-a276303a5)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SobiaKhalid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SobiaKhalid._)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sobia_khalid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sobia4khalid770@gmail.com)
+
+</div>
 
 ---
 
@@ -44,48 +57,23 @@ Java, C++, AI concepts, university life at NUML
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Coming_Soon-lightgrey?style=flat-square&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,cpp,git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-###### `Java` `C++` `AI` `NUML` `Database` `LeetCode` `Problem Solving` `Learning`
+<div align="center">
+
+`Java` `C++` `AI` `SafeHaven` `Problem Solving` `Learning` `Open Source`
+
+</div>
 
 ---
 
 ### 🌟 About Me 🌟
 
-Hello! I'm **Sobia Khalid**, a passionate **AI student** 🤖 studying at **NUML Islamabad**. I'm just starting my coding journey with **Java** and **C++**, and I'm excited to grow into the world of Artificial Intelligence and software development. I believe in learning consistently and building one step at a time. 💪
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Sobia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sobia-khalid770&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sobia-khalid770&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sobia-khalid770&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sobia-khalid770&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
+Hello! I'm **Sobia Khalid**, a passionate **AI student** 🤖. I'm on a mission to grow as a developer — starting with **Java** and **C++**, and building apps that make a real difference. My project **SafeHaven** is close to my heart — built for kids with autism to have a safe digital experience. 💙
 
 ---
 
