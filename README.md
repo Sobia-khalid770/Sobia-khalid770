@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code.%20Learn.%20Grow.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Sobia%20Khalid%20%F0%9F%92%AB&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Code.%20Build.%20Repeat.&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Turning%20curiosity%20into%20code%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=16&descColor=cccccc" width="100%"/>
 </div>
 
 <div align="center">
 
-### 👋 Hey! I'm Sobia Khalid
-#### BS Artificial Intelligence Student 🤖
+# Sobia Khalid
+
+**AI Student · Java Developer · Building things that matter**
 
 </div>
 
@@ -19,32 +20,32 @@
 
 ---
 
-### 🚀 Currently Learning
-Exploring **Java** and **C++** to build strong programming fundamentals and diving deep into **Artificial Intelligence**.
+### Currently Learning
+Strengthening my fundamentals with **Java** and **C++** while exploring the world of **Artificial Intelligence**.
 
 ---
 
-### 💻 Projects
+### Projects
 
-🔐 **[Password Generator & Saver](https://github.com/Sobia-khalid770/password-generator)**
+🔐 **[Password Manager](https://github.com/Sobia-khalid770/Password-Manager)**
 > A Java-based tool to generate strong passwords and save them securely.
 
-🧸 **[SafeHaven](https://github.com/Sobia-khalid770/SafeHaven)**
-> A Java-built app designed especially for kids with autism — a safe and friendly digital space. 💙
+🧸 **[SafeHaven AutismAid](https://github.com/Sobia-khalid770/SafeHaven-AutismAid)**
+> A Java-built app designed especially for kids with autism, a safe and friendly digital space. 💙
 
 ---
 
-### 💬 Ask me about
+### Ask me about
 Java, C++, AI concepts & building apps that matter
 
 ---
 
-### 🔗 Let's Connect!
+### Get in Touch
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobia-khalid-a276303a5)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_SobiaKhalid)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_SobiaKhalid)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SobiaKhalid._)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sobia_khalid)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sobia4khalid770@gmail.com)
@@ -53,11 +54,11 @@ Java, C++, AI concepts & building apps that matter
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,eclipse,replit,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -71,16 +72,12 @@ Java, C++, AI concepts & building apps that matter
 
 ---
 
-### 🌟 About Me 🌟
+### About Me
 
-Hello! I'm **Sobia Khalid**, a passionate **AI student** 🤖. I'm on a mission to grow as a developer — starting with **Java** and **C++**, and building apps that make a real difference. My project **SafeHaven** is close to my heart — built for kids with autism to have a safe digital experience. 💙
+Hello! I'm **Sobia Khalid**, a passionate AI student on a mission to grow as a developer, starting with **Java** and **C++**, and building apps that make a real difference. My project **SafeHaven AutismAid** is close to my heart, built for kids with autism to have a safe digital experience. 💙
 
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sobia-khalid770&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </div>
