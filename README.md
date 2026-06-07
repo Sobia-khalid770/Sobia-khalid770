@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:302b63,60:8b1a6b,100:c2185b&height=200&section=header&text=Not%20just%20writing%20code&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%80%94%20writing%20my%20story%2C%20one%20commit%20at%20a%20time%20%E2%9C%A8&descAlignY=55&descSize=15&descColor=f9a8d4" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fad0c4,100:ffecd2&height=200&section=header&text=Dream.%20Code.%20Repeat.&fontSize=40&fontColor=6a0572&animation=twinkling&fontAlignY=35&desc=A%20girl%20with%20big%20dreams%20and%20a%20keyboard%20to%20match&descAlignY=55&descSize=16&descColor=8b3a8b" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E879B8&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sobia+%F0%9F%8C%B8;AI+Student+%26+Java+Developer;Building+things+that+matter+%F0%9F%92%9C;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=36&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sobia+%F0%9F%8C%B8;AI+Student+%26+Java+Developer;Building+things+that+matter+%F0%9F%92%9C;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,11 +14,11 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Java-e879b8?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/C++-7c3aed?style=flat-square&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/AI-c2185b?style=flat-square&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Learning-302b63?style=flat-square&logo=bookstack&logoColor=white)
-![](https://img.shields.io/badge/Open%20Source-8b1a6b?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Java-FF6B9D?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/C++-C084FC?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/AI-F9A8D4?style=flat-square&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Learning-FDBA74?style=flat-square&logo=bookstack&logoColor=white)
+![](https://img.shields.io/badge/Open%20Source-86EFAC?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -48,7 +48,7 @@ Java, C++, AI concepts & building apps that matter
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,eclipse,replit,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,eclipse,replit,git,github,vscode&theme=light" />
 
 </div>
 
@@ -68,16 +68,16 @@ Hello! I'm **Sobia Khalid**, a passionate AI student on a mission to grow as a d
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobia-khalid-a276303a5)
-[![Twitter](https://img.shields.io/badge/X-0f0c29?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_SobiaKhalid)
-[![Instagram](https://img.shields.io/badge/Instagram-c2185b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SobiaKhalid._)
-[![LeetCode](https://img.shields.io/badge/LeetCode-8b1a6b?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sobia_khalid)
-[![Gmail](https://img.shields.io/badge/Gmail-e879b8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sobia4khalid770@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobia-khalid-a276303a5)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_SobiaKhalid)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SobiaKhalid._)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sobia_khalid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sobia4khalid770@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,40:8b1a6b,70:302b63,100:0f0c29&height=120&section=footer&text=%F0%9F%8C%B7%20%F0%9F%8C%B7%20%F0%9F%8C%B7&fontSize=24&fontAlignY=65&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,50:fad0c4,100:ff9a9e&height=120&section=footer&text=%F0%9F%8C%B7%20%F0%9F%8C%B7%20%F0%9F%8C%B7&fontSize=24&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
