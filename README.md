@@ -14,11 +14,11 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Java-ff6ec7?style=flat-square&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/C++-cc00ff?style=flat-square&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/AI-ff007f?style=flat-square&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Learning-bf00ff?style=flat-square&logo=bookstack&logoColor=white)
-![](https://img.shields.io/badge/Open%20Source-e879f9?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Java-FF6B9D?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/C++-C084FC?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/AI-F9A8D4?style=flat-square&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Learning-FDBA74?style=flat-square&logo=bookstack&logoColor=white)
+![](https://img.shields.io/badge/Open%20Source-86EFAC?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -48,7 +48,7 @@ Java, C++, AI concepts & building apps that matter
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,eclipse,replit,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,eclipse,replit,git,github,vscode&theme=light" />
 
 </div>
 
@@ -56,7 +56,9 @@ Java, C++, AI concepts & building apps that matter
 
 ### 🌺 About Me
 
-Hello! I'm **Sobia Khalid**, a passionate AI student on a mission to grow as a developer, starting with **Java** and **C++**, and building apps that make a real difference. My project **SafeHaven AutismAid** is close to my heart, built for kids with autism to have a safe digital experience. 💙
+I'm **Sobia Khalid**, a BS Artificial Intelligence student with a passion for building software that makes a real difference. I work with **Java** and **C++**, and I enjoy tackling problems that combine logic with empathy. My project **SafeHaven AutismAid** reflects exactly that — a Java-built application designed to create a safe, friendly digital experience for kids with autism. 💙
+
+I'm actively growing my skills, open to learning, and looking forward to opportunities where I can contribute, collaborate, and keep building things that matter.
 
 ---
 
@@ -64,7 +66,7 @@ Hello! I'm **Sobia Khalid**, a passionate AI student on a mission to grow as a d
 
 <div align="center">
 
-*I'm just a student with big dreams, a love for coding, and a heart for building things that actually help people. If you're on the same journey or just want to say hi, my inbox is always open!*
+*On the same journey or just want to say hi? My inbox is always open!*
 
 <br/>
 
