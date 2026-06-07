@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0010,25:3d0066,50:cc00ff,75:ff007f,100:ff6ec7&height=220&section=header&text=%3C%2FSobia%3E&fontSize=58&fontColor=ff6ec7&animation=twinkling&fontAlignY=40&desc=building+her+dreams+in+code+%E2%80%94+line+by+line.&descAlignY=62&descSize=16&descColor=e879f9" width="100%"/>
+  <img src="./banner.svg" width="100%" alt="Sobia Khalid Banner"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=900&color=FF6EC7&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+developer+in+progress+%E2%9C%A8;%24+passion+%3D+code+%2B+creativity+%2B+impact;%24+status+%3D+%22leveling+up+every+day%22;%24+current_mood+%3D+%22unstoppable%22+%F0%9F%92%9C;%24+next+%3D+AI+%7C+Java+%7C+C%2B%2B+%7C+everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=900&color=CC00FF&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+developer+in+progress;%24+passion+%3D+code+%2B+creativity+%2B+impact;%24+status+%3D+%22leveling+up+every+day%22;%24+current_mood+%3D+%22unstoppable%22;%24+stack+%3D+AI+%7C+Java+%7C+C%2B%2B)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,9 +16,9 @@
 
 ![](https://img.shields.io/badge/Java-FF6B9D?style=flat-square&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/C++-C084FC?style=flat-square&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/AI-F9A8D4?style=flat-square&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Learning-FDBA74?style=flat-square&logo=bookstack&logoColor=white)
-![](https://img.shields.io/badge/Open%20Source-86EFAC?style=flat-square&logo=github&logoColor=white)
+![](https://img.shields.io/badge/AI-e879f9?style=flat-square&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Learning-a855f7?style=flat-square&logo=bookstack&logoColor=white)
+![](https://img.shields.io/badge/Open%20Source-cc00ff?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
@@ -48,7 +48,7 @@ Java, C++, AI concepts & building apps that matter
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,eclipse,replit,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,cpp,eclipse,replit,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -81,5 +81,11 @@ I'm actively growing my skills, open to learning, and looking forward to opportu
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,30:ff007f,60:cc00ff,100:0d0010&height=120&section=footer" width="100%"/>
+
+![](https://img.shields.io/badge/-%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-1e0038?style=flat-square)
+
+*keep building. keep growing. ✨*
+
+![](https://img.shields.io/badge/-%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-1e0038?style=flat-square)
+
 </div>
