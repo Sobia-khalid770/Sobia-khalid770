@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=900&color=CC00FF&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+developer+in+progress;%24+passion+%3D+code+%2B+creativity+%2B+impact;%24+status+%3D+%22leveling+up+every+day%22;%24+current_mood+%3D+%22unstoppable%22;%24+stack+%3D+AI+%7C+Java+%7C+C%2B%2B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=1000&color=CC00FF&center=true&vCenter=true&width=560&lines=Hi+there%2C+I'm+Sobia+%F0%9F%91%8B;AI+Student+%26+Java+Developer+%F0%9F%92%9C;Building+apps+that+actually+matter;One+commit+closer+to+my+dreams+%E2%9C%A8;The+girl+who+codes+%26+creates+%F0%9F9A80)](https://git.io/typing-svg)
 
 </div>
 
@@ -82,10 +82,6 @@ I'm actively growing my skills, open to learning, and looking forward to opportu
 
 <div align="center">
 
-![](https://img.shields.io/badge/-%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-1e0038?style=flat-square)
-
 *keep building. keep growing. ✨*
-
-![](https://img.shields.io/badge/-%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94-1e0038?style=flat-square)
 
 </div>
