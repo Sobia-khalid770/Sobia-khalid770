@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fad0c4,100:ffecd2&height=200&section=header&text=Dream.%20Code.%20Repeat.&fontSize=40&fontColor=6a0572&animation=twinkling&fontAlignY=35&desc=A%20girl%20with%20big%20dreams%20and%20a%20keyboard%20to%20match&descAlignY=55&descSize=16&descColor=8b3a8b" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0021,30:1a0533,60:2d0b5e,100:4a0080&height=200&section=header&text=Not%20just%20writing%20code&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%80%94%20writing%20my%20story%2C%20one%20commit%20at%20a%20time%20%E2%9C%A8&descAlignY=55&descSize=15&descColor=d8b4fe" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-# ✨ Sobia Khalid ✨
-
-**AI Student · Java Developer · Building things that matter 💜**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=36&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sobia+%F0%9F%8C%B8;AI+Student+%26+Java+Developer;Building+things+that+matter+%F0%9F%92%9C;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -66,6 +66,8 @@ Hello! I'm **Sobia Khalid**, a passionate AI student on a mission to grow as a d
 
 *I'm just a student with big dreams, a love for coding, and a heart for building things that actually help people. If you're on the same journey or just want to say hi, my inbox is always open!*
 
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobia-khalid-a276303a5)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_SobiaKhalid)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SobiaKhalid._)
@@ -77,5 +79,5 @@ Hello! I'm **Sobia Khalid**, a passionate AI student on a mission to grow as a d
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,50:fad0c4,100:ff9a9e&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0080,50:2d0b5e,100:0d0021&height=120&section=footer&text=%F0%9F%8C%B7%20%F0%9F%8C%B7%20%F0%9F%8C%B7&fontSize=24&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
