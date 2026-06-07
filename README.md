@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,50:fad0c4,100:ffecd2&height=200&section=header&text=Dream.%20Code.%20Repeat.&fontSize=40&fontColor=6a0572&animation=twinkling&fontAlignY=35&desc=A%20girl%20with%20big%20dreams%20and%20a%20keyboard%20to%20match&descAlignY=55&descSize=16&descColor=8b3a8b" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0533,20:3b0764,40:6d28d9,60:be185d,80:f43f5e,100:fb923c&height=220&section=header&text=Sobia%20Khalid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%80%9CShe%20believed%20she%20could%2C%20so%20she%20coded.%E2%80%9D&descAlignY=62&descSize=17&descColor=fda4af" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=36&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sobia+%F0%9F%8C%B8;AI+Student+%26+Java+Developer;Building+things+that+matter+%F0%9F%92%9C;Welcome+to+my+profile+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=550&lines=✦+AI+Student+at+NUML+Islamabad+✦;✦+Java+%26+C%2B%2B+Developer+✦;✦+Building+apps+that+actually+matter+✦;✦+One+commit+closer+to+my+dreams+✦;✦+The+girl+who+codes+%26+creates+✦)](https://git.io/typing-svg)
 
 </div>
 
@@ -79,5 +79,5 @@ Hello! I'm **Sobia Khalid**, a passionate AI student on a mission to grow as a d
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffecd2,50:fad0c4,100:ff9a9e&height=120&section=footer&text=%F0%9F%8C%B7%20%F0%9F%8C%B7%20%F0%9F%8C%B7&fontSize=24&fontAlignY=65&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,25:f43f5e,50:be185d,75:6d28d9,100:1a0533&height=130&section=footer&text=%F0%9F%8C%B7+keep+building+%F0%9F%8C%B7&fontSize=18&fontColor=fda4af&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
