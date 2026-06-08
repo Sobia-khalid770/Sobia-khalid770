@@ -1,0 +1,104 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <defs>
+    <linearGradient id="footerbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6600aa"/>
+      <stop offset="50%" style="stop-color:#3d0066"/>
+      <stop offset="100%" style="stop-color:#0d001a"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes twinkle1 { 0%,100%{opacity:1} 50%{opacity:0.1} }
+    @keyframes twinkle2 { 0%,100%{opacity:0.3} 50%{opacity:1} }
+    @keyframes twinkle3 { 0%,100%{opacity:0.7} 30%{opacity:0.1} 70%{opacity:1} }
+    @keyframes blink    { 0%,100%{opacity:1} 49%{opacity:1} 50%{opacity:0} 99%{opacity:0} }
+    @keyframes scanline { 0%{transform:translateY(-100px)} 100%{transform:translateY(100px)} }
+    @keyframes textglow { 0%,100%{opacity:0.7} 50%{opacity:1} }
+
+    .t1{animation:twinkle1 2s ease-in-out infinite}
+    .t2{animation:twinkle2 1.7s ease-in-out infinite 0.4s}
+    .t3{animation:twinkle3 2.3s ease-in-out infinite 0.8s}
+    .t4{animation:twinkle1 1.5s ease-in-out infinite 1.2s}
+    .t5{animation:twinkle2 2.6s ease-in-out infinite 0.2s}
+    .t6{animation:twinkle3 1.9s ease-in-out infinite 1.5s}
+    .cursor{animation:blink 1s step-end infinite}
+    .scanline{animation:scanline 3s linear infinite; opacity:0.04}
+    .txt{animation:textglow 2.5s ease-in-out infinite}
+  </style>
+
+  <rect width="900" height="100" fill="url(#footerbg)"/>
+
+  <!-- pixel grid -->
+  <g stroke="#ffffff03" stroke-width="1">
+    <line x1="0" y1="8" x2="900" y2="8"/>
+    <line x1="0" y1="16" x2="900" y2="16"/>
+    <line x1="0" y1="24" x2="900" y2="24"/>
+    <line x1="0" y1="32" x2="900" y2="32"/>
+    <line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="48" x2="900" y2="48"/>
+    <line x1="0" y1="56" x2="900" y2="56"/>
+    <line x1="0" y1="64" x2="900" y2="64"/>
+    <line x1="0" y1="72" x2="900" y2="72"/>
+    <line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="88" x2="900" y2="88"/>
+    <line x1="0" y1="96" x2="900" y2="96"/>
+  </g>
+
+  <!-- scanline -->
+  <rect class="scanline" x="0" y="0" width="900" height="3" fill="white"/>
+
+  <!-- twinkling pixel stars -->
+  <rect class="t1" x="24" y="8" width="4" height="4" fill="#ff6ec7"/>
+  <rect class="t2" x="80" y="16" width="4" height="4" fill="white"/>
+  <rect class="t3" x="160" y="8" width="4" height="4" fill="#cc00ff"/>
+  <rect class="t4" x="240" y="16" width="4" height="4" fill="#ff6ec7"/>
+  <rect class="t5" x="320" y="8" width="4" height="4" fill="white"/>
+  <rect class="t6" x="400" y="16" width="4" height="4" fill="#cc00ff"/>
+  <rect class="t1" x="480" y="8" width="4" height="4" fill="#ff6ec7"/>
+  <rect class="t3" x="560" y="16" width="4" height="4" fill="white"/>
+  <rect class="t5" x="640" y="8" width="4" height="4" fill="#cc00ff"/>
+  <rect class="t2" x="720" y="16" width="4" height="4" fill="#ff6ec7"/>
+  <rect class="t4" x="800" y="8" width="4" height="4" fill="white"/>
+  <rect class="t6" x="872" y="16" width="4" height="4" fill="#cc00ff"/>
+
+  <!-- pixel border top -->
+  <rect x="0" y="0" width="900" height="4" fill="#cc00ff" opacity="0.6"/>
+  <rect x="0" y="4" width="900" height="2" fill="#ff6ec7" opacity="0.3"/>
+
+  <!-- corner pixels -->
+  <rect x="0" y="0" width="16" height="4" fill="#ff6ec7"/>
+  <rect x="0" y="0" width="4" height="16" fill="#ff6ec7"/>
+  <rect x="884" y="0" width="16" height="4" fill="#cc00ff"/>
+  <rect x="896" y="0" width="4" height="16" fill="#cc00ff"/>
+
+  <!-- pixel sparkles -->
+  <g class="t2">
+    <rect x="52" y="44" width="4" height="12" fill="#ff6ec7"/>
+    <rect x="46" y="50" width="16" height="4" fill="#ff6ec7"/>
+  </g>
+  <g class="t5">
+    <rect x="844" y="44" width="4" height="12" fill="#cc00ff"/>
+    <rect x="838" y="50" width="16" height="4" fill="#cc00ff"/>
+  </g>
+
+  <!-- main text -->
+  <text class="txt" x="450" y="58"
+    text-anchor="middle"
+    font-family="'Courier New', monospace"
+    font-size="14" font-weight="bold"
+    fill="#ff6ec7"
+    letter-spacing="4">keep building. keep growing.</text>
+
+  <!-- blinking cursor -->
+  <rect class="cursor" x="676" y="46" width="8" height="12" fill="#cc00ff"/>
+
+  <!-- sub text -->
+  <text x="450" y="78"
+    text-anchor="middle"
+    font-family="'Courier New', monospace"
+    font-size="10"
+    fill="#cc00ff"
+    letter-spacing="2"
+    opacity="0.6">[ thanks for visiting — Sobia Khalid ]</text>
+
+</svg>
